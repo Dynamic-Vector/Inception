@@ -25,13 +25,13 @@ It is a machine learning model which can play car and bike driving game and can 
 **Model-2:** This model uses the deep learning technique *Convolutional Neural Networks(CNN)* to learn driving.With the help of *OpenCV*  i created a custom dataset by driving car for several minutes and then train that custom dataset to the neural networks.Used *Tensorflow* for neural networks.
 
 ## Description:
-data_collect.py-Used to create custom data.<br>
-directkeys.py-Used to map keys according to Direct-X framework.<br>
-getkeys.py-Used to detect input keys by using Windows API.<br>
-motion.py-Used for motion detection.<br>
-neural.py-File where Neural network is written.<br>
-train_data.py-Used to train model with custom dataset.<br>
-test_data.py-Used to test the trained model.<br>
+**data_collect.py**-Used to create custom data.<br>
+**directkeys.py**-Used to map keys according to Direct-X framework.<br>
+**getkeys.py**-Used to detect input keys by using Windows API.<br>
+**motion.py**-Used for motion detection.<br>
+**neural.py**-File where Neural network is written.<br>
+**train_data.py**-Used to train model with custom dataset.<br>
+**test_data.py**-Used to test the trained model.<br>
 
 ## How to Use:
 * First clone the repository
@@ -48,7 +48,7 @@ test_data.py-Used to test the trained model.<br>
 ## Recommendations:
 * Create custom data for atleast 25-30 min.The accuracy depends totally on how much you train the model.
 * Use in games which has W,A,S,D Keys as controls.(You can change code to play with desired controls).
-* For pausing the the model press P.
+* For pausing the model press P.
 
 ## Sample:
 <div align="left"> 
