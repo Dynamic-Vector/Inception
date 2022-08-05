@@ -15,7 +15,7 @@
  </div> 
 
 ## About:
-It is a machine learning model which can autoplay any car driving game and can be used as a reference for autonomous driving.
+It is a machine learning model which can play driving game and can be used as a reference for self driving car.
 
 
 
@@ -51,6 +51,17 @@ test_data.py-Used to test the trained model.<br>
 * For pausing the the model press P.
 
 ## Sample:
+<div align="left"> 
+<h5>Model-1:</h5>
+<img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/v1.gif" width=500 height=400>
+</div>
+<div align="left">
+<h5>Model-2:</h5>
+<img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/cnn_V2.gif" width=500 height=400>
+</div>
+
+
+
 
 
 
