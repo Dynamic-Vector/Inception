@@ -39,6 +39,7 @@ It is a machine learning model which can play car and bike driving game and can 
 * Run data_collect to create custom dataset.
 * Run train_data to train the data.
 * Run test_data to play it on any car driving game.
+* For pausing the model press P.
 
 ## Requirements:
 * CPU-Atleast Quadcore or Octacore.
@@ -46,9 +47,9 @@ It is a machine learning model which can play car and bike driving game and can 
 * RAM: at least 16 or 32 GB.
 
 ## Recommendations:
-* Create custom data for atleast 25-30 min.The accuracy depends totally on how much you train the model.
 * Use in games which has W,A,S,D Keys as controls.(You can change code to play with desired controls).
-* For pausing the model press P.
+* Create custom data for atleast 25-30 min.The accuracy depends totally on how much you train the model.
+* In neural.py there are different types of neural networks you can be use to train(must try and check accuracy).
 
 ## Sample:
 <div align="left"> 
@@ -59,19 +60,6 @@ It is a machine learning model which can play car and bike driving game and can 
 <h5>Model-2:</h5>
 <img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/cnn_V2.gif" width=500 height=400>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Support
 ⭐ **Please Star  and share the project. Thanks!** ❤️ 
