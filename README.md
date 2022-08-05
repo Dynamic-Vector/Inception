@@ -35,11 +35,15 @@ It is a machine learning model which can play car and bike driving game and can 
 
 ## How to Use:
 * First clone the repository
-* Install the requirements.txt file
+* Install the requirements.txt file<br>
+* **Model-1:**
+* Run main.py file to play.<br>
+* **Model-2:**
 * Run data_collect to create custom dataset.
 * Run train_data to train the data.
 * Run test_data to play it on any car driving game.
 * For pausing the model press P.
+
 
 ## Requirements:
 * CPU-Atleast Quadcore or Octacore.
