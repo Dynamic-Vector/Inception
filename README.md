@@ -15,7 +15,7 @@
  </div> 
 
 ## About:
-It is a machine learning model which can play driving game and can be used as a reference for self driving car.
+It is a machine learning model which can play car and bike driving game and can be used as a reference for self driving vehicle.
 
 
 
