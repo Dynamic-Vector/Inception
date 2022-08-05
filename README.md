@@ -26,12 +26,14 @@ It is a machine learning model which can play car and bike driving game and can 
 
 ## Description:
 **data_collect.py**-Used to create custom data.<br>
-**directkeys.py**-Used to map keys according to Direct-X framework.<br>
-**getkeys.py**-Used to detect input keys by using Windows API.<br>
+**grabscreen.py**-Used to detect the screen.<br>
 **motion.py**-Used for motion detection.<br>
 **neural.py**-File where Neural network is written.<br>
 **train_data.py**-Used to train model with custom dataset.<br>
 **test_data.py**-Used to test the trained model.<br>
+**directkeys.py**-Used to map keys according to Direct-X framework.<br>
+**getkeys.py**-Used to detect input keys by using Windows API.<br>
+
 
 ## How to Use:
 * First clone the repository
