@@ -60,10 +60,10 @@ It is a machine learning model which can play car and bike driving game and can 
 ## Sample:
 <div align="left"> 
 <h5>Model-1:</h5>
-<img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/v1.gif" width=70% height=400>
+<img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/v1.gif" width=100% height=400>
 <div align="left">
 <h5>Model-2:</h5>
-<img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/cnn_V2.gif" width=70% height=400>
+<img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/cnn_V2.gif" width=100% height=400>
 </div>
 
 ## Support
