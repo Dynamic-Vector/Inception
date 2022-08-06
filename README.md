@@ -20,7 +20,7 @@ It is a machine learning model which can play car and bike driving game and can 
 
 
 ## Models:
-**Model-1:** This model uses *Canny Edge Detection* technique to detect edges and then by using the slopes of the detected edges lines the model take left or right turn depending upon the weather slope is negative or positive. *OpenCV* and Basic *If-else* condition is used in this model.I played this model on GTA-5.
+**Model-1:** This model uses *Canny Edge Detection* technique to detect edges and then by using the slopes of the detected edges lines the model take left or right turn depending upon the whether slope is negative or positive. *OpenCV* and Basic *If-else* condition is used in this model.I played this model on GTA-5.
 
 **Model-2:** This model uses the deep learning technique *Convolutional Neural Networks(CNN)* to learn driving.With the help of *OpenCV*  i created a custom dataset by driving car for several minutes and then train that custom dataset to the neural networks.Used *Tensorflow* for neural networks.
 
