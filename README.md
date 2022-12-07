@@ -58,7 +58,9 @@ It is a machine learning model which can play car and bike driving game and can 
 * In neural.py there are different types of neural networks you can be use to train(must try and check accuracy).
 
 ## Sample:
-<div align="left"> 
+<div align="left">
+<h5>Edge Detection:</h5>
+<img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/edge%20detection.gif" width=100% height=400>
 <h5>Model-1:</h5>
 <img src="https://github.com/Dynamic-Vector/Inception/blob/master/res/v1.gif" width=100% height=400>
 <div align="left">
